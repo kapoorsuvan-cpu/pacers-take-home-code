@@ -1,0 +1,43 @@
+{
+  "repository": "https://github.com/shufinskiy/nba_data",
+  "revision": "e829d4678be1e075f99e5d41a1c5f97089be446b",
+  "retrieved": "2026-10-06 America/Los_Angeles",
+  "files": [
+    {
+      "file": "nbastats_2024.tar.xz",
+      "bytes": 8583784,
+      "sha256": "8f370da00ad0a6d4157921bd161d56ea32647a165d906516f2b36384a6a4989a",
+      "url": "https://raw.githubusercontent.com/shufinskiy/nba_data/e829d4678be1e075f99e5d41a1c5f97089be446b/datasets/nbastats_2024.tar.xz"
+    },
+    {
+      "file": "nbastats_po_2024.tar.xz",
+      "bytes": 581156,
+      "sha256": "19c243bfb63305f8a7e5922f37acb781d587c2768493850e5fe852c901b8ce72",
+      "url": "https://raw.githubusercontent.com/shufinskiy/nba_data/e829d4678be1e075f99e5d41a1c5f97089be446b/datasets/nbastats_po_2024.tar.xz"
+    },
+    {
+      "file": "pbpstats_2024.tar.xz",
+      "bytes": 13739644,
+      "sha256": "3e124793cc7fbc279627926e207b634fd593e5b56a69b8d0324f21460913c5c6",
+      "url": "https://raw.githubusercontent.com/shufinskiy/nba_data/e829d4678be1e075f99e5d41a1c5f97089be446b/datasets/pbpstats_2024.tar.xz"
+    },
+    {
+      "file": "pbpstats_po_2024.tar.xz",
+      "bytes": 433808,
+      "sha256": "c41f2ae7e577d117694b47da67ad0b963a554eb0640e9fa7690c16781c4b20a2",
+      "url": "https://raw.githubusercontent.com/shufinskiy/nba_data/e829d4678be1e075f99e5d41a1c5f97089be446b/datasets/pbpstats_po_2024.tar.xz"
+    },
+    {
+      "file": "shotdetail_2024.tar.xz",
+      "bytes": 2832144,
+      "sha256": "950100f9c84fe750ae2ac8eaeb82d24cdfb9f60a9ed04ceaa66f64789d7c216e",
+      "url": "https://raw.githubusercontent.com/shufinskiy/nba_data/e829d4678be1e075f99e5d41a1c5f97089be446b/datasets/shotdetail_2024.tar.xz"
+    },
+    {
+      "file": "shotdetail_po_2024.tar.xz",
+      "bytes": 191548,
+      "sha256": "2a972625db433504486d837c38c917146da269939e6d984b8024f148d3d79507",
+      "url": "https://raw.githubusercontent.com/shufinskiy/nba_data/e829d4678be1e075f99e5d41a1c5f97089be446b/datasets/shotdetail_po_2024.tar.xz"
+    }
+  ]
+}

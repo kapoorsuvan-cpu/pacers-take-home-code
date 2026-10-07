@@ -1,0 +1,30 @@
+{
+  "regular": {
+    "games_raw": 1230,
+    "games_possessions": 1230,
+    "games_shots": 1230,
+    "rows_before": 483126,
+    "unique_possessions_before_empty_filter": 243782,
+    "empty_endings_removed": 1016,
+    "retained_possessions": 242766,
+    "pacers_games": 82,
+    "score_discrepancy_teamgames": 223,
+    "sum_possession_minus_event_pts": -292.0,
+    "max_absolute_score_difference": 12.0,
+    "negative_duration": 0
+  },
+  "playoffs": {
+    "games_raw": 84,
+    "games_possessions": 84,
+    "games_shots": 84,
+    "rows_before": 32939,
+    "unique_possessions_before_empty_filter": 16081,
+    "empty_endings_removed": 61,
+    "retained_possessions": 16020,
+    "pacers_games": 23,
+    "score_discrepancy_teamgames": 13,
+    "sum_possession_minus_event_pts": -15.0,
+    "max_absolute_score_difference": 4.0,
+    "negative_duration": 0
+  }
+}

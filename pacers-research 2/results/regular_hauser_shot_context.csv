@@ -1,0 +1,16 @@
+lineup_valid,tatum_on,SHOT_ZONE_BASIC,attempts,makes,points
+False,False,Above the Break 3,1,0,0
+False,False,Right Corner 3,1,0,0
+True,False,Above the Break 3,144,59,177
+True,False,In The Paint (Non-RA),12,7,14
+True,False,Left Corner 3,21,9,27
+True,False,Mid-Range,16,12,24
+True,False,Restricted Area,19,14,28
+True,False,Right Corner 3,21,5,15
+True,True,Above the Break 3,140,56,168
+True,True,Backcourt,1,0,0
+True,True,In The Paint (Non-RA),4,1,2
+True,True,Left Corner 3,36,16,48
+True,True,Mid-Range,11,5,10
+True,True,Restricted Area,13,9,18
+True,True,Right Corner 3,34,21,63

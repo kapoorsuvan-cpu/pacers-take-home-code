@@ -1,0 +1,61 @@
+{
+  "hauser": {
+    "3pa": 399,
+    "3pm": 166,
+    "3pt_pct": 41.60401002506266,
+    "cohort_n": 197,
+    "rank": 18,
+    "percentile": 91.3265306122449,
+    "league_3pt_pct": 36.0218484668217,
+    "assisted_3pm_pct": 95.18072289156626,
+    "shrunken_3pt_pct_prior_200_attempts": 39.740183127486375,
+    "bootstrap_game_95pct_3p": [
+      36.97242337795333,
+      46.42922633601118
+    ],
+    "surplus_points_vs_league_at_same_3pa": 66.81847385214425
+  },
+  "playoffs": {
+    "east_poss": 1574,
+    "east_ppp": 1.1931385006353241,
+    "east_tov_pct": 12.706480304955528,
+    "finals_poss": 683,
+    "finals_ppp": 1.0922401171303076,
+    "finals_tov_pct": 18.594436310395317,
+    "tov_delta_pp": 5.887956005439787,
+    "tov_delta_game_bootstrap_95pct_pp": [
+      1.6060787772975742,
+      10.242306666918719
+    ],
+    "ppp_delta_game_bootstrap_95pct": [
+      -0.16432966095263865,
+      -0.03527994292843023
+    ]
+  },
+  "forecast": {
+    "model": {
+      "intercept": 40.99369006028227,
+      "wins_per_net_point": 2.165300912544444,
+      "rmse": 2.408146674276811,
+      "pacers_2025_fitted_wins": 46.5520047720197
+    },
+    "scenarios": [
+      {
+        "case": "downside",
+        "assumed_net": -2.0,
+        "predicted_wins": 36.663088235193385
+      },
+      {
+        "case": "base",
+        "assumed_net": 2.0,
+        "predicted_wins": 45.32429188537115
+      },
+      {
+        "case": "upside",
+        "assumed_net": 4.5,
+        "predicted_wins": 50.73754416673226
+      }
+    ],
+    "notice": "Scenario net ratings are analyst assumptions, not a fitted injury model. Scenario range is not a confidence interval. Fit uses 2024-25 teams and cannot capture future schedule strength."
+  }
+}
