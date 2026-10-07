@@ -1,6 +1,6 @@
 # Pacers research: 2026–27 outlook from a 2024–25 baseline
 
-Analysis date: October 6, 2026. The user requested slide information, not a generated deck. This bundle includes the executed research scripts and result tables. Raw data files are downloaded separately. The optional archived_presentation folder preserves the draft presentation scripts used before the request changed to slide information only; it is not needed for the analysis.
+Analysis date: October 6, 2026. The user requested slide information, not a generated deck. This bundle includes the executed research scripts and result tables. Raw data files are downloaded separately. 
 
 ## Reproduce
 
@@ -86,6 +86,5 @@ The trade-target statistics in the final wording were researched from public web
 - lineups.py: reconstructs conservative five-player lineups and measures selected on/off and Hauser/Tatum shooting context.
 - sensitivity.py: checks pace-proxy thresholds, playoff exclusions, bootstrap uncertainty, shooting shrinkage and forecast scenarios.
 - exploratory/inspect_data.py: initial archive/schema/coverage inspection; paths are relative to the original workspace.
-- archived_presentation/: original draft builder, earlier builder revision, revision script and chart-input preparation, preserved for completeness. This uses the Codex bundled @oai/artifact-tool runtime and presentation helpers; it is not a standalone Python dependency. No generated deck is included.
 
 The main Python scripts are the reusable research code. Web searches and brief terminal inspection commands were interactive research steps, not a separate saved scraping program.
